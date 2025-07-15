@@ -1,0 +1,13 @@
+// Global reset styles
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $font-stack;
+  background-color: #f7f7f7;
+  color: $text-color;
+}

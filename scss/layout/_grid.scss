@@ -1,0 +1,4 @@
+.card-grid {
+  @include responsive-grid;
+  padding: 2rem;
+}
